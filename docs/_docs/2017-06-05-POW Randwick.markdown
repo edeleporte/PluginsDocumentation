@@ -38,7 +38,7 @@ List of buildings:
 | 51 | CAR PARK |
 | 52 | TEMPORARY BUILDING |
 | 53 | TEST |
-
+| 54 | TEST |
 ## <a id="Drawing_DocType"></a> Document and Drawing Types
 
 List of document types:
